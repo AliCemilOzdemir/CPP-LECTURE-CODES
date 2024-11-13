@@ -26,4 +26,4 @@ The codes in this repository are compiled from the lecture slides of the CMP1001
       ```cpp
       cout << 10 % 2 << endl;
       ```
-### Enjoy your work
+### Enjoy your work!

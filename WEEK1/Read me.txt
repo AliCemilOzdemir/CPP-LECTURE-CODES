@@ -1,0 +1,2 @@
+<en> Since there was no cpp code in the first week's slide, there is not .cpp files in this folder.
+<tr> İlk slaytta herhangi bir cpp kodu olmadığı için, bu klasörde herhangi bir .cpp dosyası bulunmamaktadır.

@@ -1,6 +1,6 @@
 # CPP-LECTURE-CODES
 
-The codes in this repository are compiled from the lecture slides of the CMP1001 course and the codes written during class.
+The codes in this repository are compiled from the lecture slides of the CMP1001 course at Bahcesehir University and the codes written during class.
 
 ## Which codes are included in the repository?
 
